@@ -1,5 +1,5 @@
 {
-  "name": "trie-d",
+  "name": "trie-fs",
   "version": "1.0.0",
   "description": "build amazing tries using file-system",
   "main": "index.js",
