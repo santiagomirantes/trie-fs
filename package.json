@@ -1,0 +1,21 @@
+{
+  "name": "trie-d",
+  "version": "1.0.0",
+  "description": "build amazing tries using file-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santiagomirantes/trie-d"
+  },
+  "keywords": [
+    "trie",
+    "tries",
+    "file",
+    "files"
+  ],
+  "author": "Santiago Mirantes",
+  "license": "ISC"
+}
